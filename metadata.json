@@ -1,0 +1,6 @@
+{
+  "name": "RE:MEMORY (기억의 필름) — AI Cinema & Webtoon Memory Restorer",
+  "description": "Museum-grade interactive multimodal memory restorer turning spoken elder stories into consistent 4-panel Korean cinema and webtoon films using Gemini 4 Argon showrunner engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
